@@ -34,7 +34,7 @@ function App() {
 
       <>
 
-        <Typography variant="h3" align="center">
+        <Typography variant="h3" color="textSecondary" align="center">
           Clima nas suas Coordenadas
         </Typography>
         <Grid container spacing={1}>
